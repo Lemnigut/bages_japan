@@ -84,3 +84,5 @@
   <form action="https://ya.ru/" target="_blank">
    <button>Переход по ссылке</button>
   </form>
+
+<button onclick="window.location.href = 'https://ya.ru/';">Click Here</button>
